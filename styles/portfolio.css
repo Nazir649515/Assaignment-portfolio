@@ -8,11 +8,19 @@
   width: 100%;
   height: 100vh;
   background: url("./../images/banner/banner1.png");
-  display: flex;
+  background-repeat: no-repeat;
+  background-size:cover
+  position:absolute;
+  top:0;
+  right:0;
+  buttom:0;
+  margin:auto;
+  display:flex;
   justify-content: right;
   text-align: right;
   align-items: center;
-  padding-right: 400px;
+
+ 
   
 }
 .title-banner{
