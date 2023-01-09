@@ -72,12 +72,13 @@ border-radius: 5px;
 
 .main-paragraph{
   font-family: 'Work Sans';
-  color: #444343;
   font-style: normal;
-  line-height: 25px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  margin-bottom: 22px;
   margin-left: 80px;
-  font-weight: 390px;
-  font-size: 16px;
+  color: #151414;
 }
 
 .row-lines{
@@ -97,4 +98,25 @@ font-style: normal;
   color: #0ae40a;
   font-weight: 800;
   padding-right:10px;
+}
+
+.text1{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  color: #151414;
+}
+
+.list-plan{
+  margin-top: 23px;
+display: flex;
+flex-direction: row;
+margin-left: 49px;
+}
+
+.plan-list1{
+  padding: 200px;
 }
