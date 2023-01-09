@@ -49,3 +49,24 @@ border-radius: 5px;
   
 }
 
+*/--------------------------------seactaion2-------------*/
+
+.banner{
+  display: flex;
+  align-items: center;
+  margin: 96px 88px;
+}
+
+
+.main-text{
+  font-family: 'Work Sans';
+  color: #151414;
+  margin-left: 80px;
+  margin-bottom: 20px;
+  line-height: 40px;
+  font-size: 40px;
+  font-weight: 600px;
+  font-style: normal;
+
+}
+
