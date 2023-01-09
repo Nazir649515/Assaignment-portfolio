@@ -70,3 +70,31 @@ border-radius: 5px;
 
 }
 
+.main-paragraph{
+  font-family: 'Work Sans';
+  color: #444343;
+  font-style: normal;
+  line-height: 25px;
+  margin-left: 80px;
+  font-weight: 390px;
+  font-size: 16px;
+}
+
+.row-lines{
+font-family: 'Work Sans';
+color: #444343;
+
+font-weight: 390px;
+line-height: 20px;
+margin-bottom: 19px;
+margin-left: 88px;
+color: #444343;
+font-size: 16px;
+font-style: normal;
+}
+
+.mark-signature{
+  color: #0ae40a;
+  font-weight: 800;
+  padding-right:10px;
+}
