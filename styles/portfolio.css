@@ -120,3 +120,97 @@ margin-left: 49px;
 .plan-list1{
   padding: 200px;
 }
+.icon1{
+  margin-left: 98px;
+}
+.icon2{
+  margin-left: 92px;
+}
+.icon3{
+  margin-left: 119px;
+}
+.icon4{
+  margin-left: 86px;
+}
+
+.position1{
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+.position2{
+  margin-top: 35px;
+  margin-left: 42px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+.position3{
+  margin-top: 35px;
+  margin-left: 87.5px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+.position4{
+  margin-top: 35px;
+  margin-left: 42px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  color: #737272;
+}
+
+.web{
+  position: absolute;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+  margin-left: 62px;
+}
+.js{
+  position: absolute;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+  margin-left: 62px;
+}
+.smoke{
+  position: absolute;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+  margin-left: 62px;
+}
+.ecom{
+  position: absolute;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+  color: #151414;
+  margin-left: 62px;
+}
